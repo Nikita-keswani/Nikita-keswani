@@ -162,7 +162,7 @@ print(me.life_motto())
 
 ---
 
-# 📊 GitHub Stats
+
 
 <!-- <p align="center">
 
