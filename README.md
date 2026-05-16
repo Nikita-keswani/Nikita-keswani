@@ -103,7 +103,7 @@ print(me.life_motto())
 # 👩‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ print(me.life_motto())
 # 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
 </p>
 
 ---
