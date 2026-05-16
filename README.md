@@ -164,13 +164,13 @@ print(me.life_motto())
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikita-keswani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-keswani&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
