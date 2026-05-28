@@ -62,16 +62,16 @@ class NikitaKeswani:
         self.interests = [
             "Machine Learning",
             "Artificial Intelligence",
-            "Full Stack Development",
             "Data Science",
             "Generative AI",
             "RAG",
+            "Deep Learning",
+            "NLP",
             "Open Source"
         ]
 
         self.currently_learning = [
-            "Deep Learning",
-            "NLP",
+            Agentic AI,
             "Advanced DSA"
         ]
 
@@ -91,8 +91,7 @@ print(me.life_motto())
 
 - 🔥 Building AI-Powered Career Guidance System
 - 🌦 Developed Real-Time Weather App
-- 📚 Built ML-Based College Recommendation System
-- 🤖 Working on AI & Deep Learning Projects
+- 🤖 Working on AI Project
 - 🧠 Practicing DSA Daily
 - 🚀 Preparing for Placements
 
