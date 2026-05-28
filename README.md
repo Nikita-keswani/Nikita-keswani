@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Nikita+Keswani+👋;AI+%26+ML+Enthusiast+🤖;Full+Stack+Developer+💻;DSA+Learner+🚀;Open+Source+Contributor+🌟" />
-</p>
 
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
